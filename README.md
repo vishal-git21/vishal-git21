@@ -6,11 +6,12 @@ With a solid foundation in programming languages and a keen interest in data ana
 
 I’m passionate about exploring:
 
-🧠 Artificial Intelligence
-📈 Data Science
-🌟 Innovative Technologies
-📱 Mobile App Development
+🧠 Artificial Intelligence  
+📈 Data Science  
+🌟 Innovative Technologies  
+📱 Mobile App Development  
 💾 Big Data
+
 
 ## Skills & Expertise
 - **Programming Languages:** Python, Java, C/C++, SQL, R
@@ -18,8 +19,8 @@ I’m passionate about exploring:
 - **Tools:** Git, Docker, Kubernetes
 
 ## Current Projects
-- **🥊BoxMind Analytics**: I'm currently working on developing a system to analyze and track boxers' psychological states during fights, combining psychological surveys and physical indicators to assess performance impact.
-- **📸🔍EduImage Validator**: I'm also developing a system for validating teacher-uploaded images on a teaching platform, ensuring compliance with focus and single-person requirements for secure and accurate registrations.
+- **🥊 BoxMind Analytics**: I'm currently working on developing a system to analyze and track boxers' psychological states during fights, combining psychological surveys and physical indicators to assess performance impact.
+- **📸🔍 EduImage Validator**: I'm also developing a system for validating teacher-uploaded images on a teaching platform, ensuring compliance with focus and single-person requirements for secure and accurate registrations.
 
 
 

@@ -20,7 +20,7 @@ I’m passionate about exploring:
 
 ## Current Projects
 - **🥊 BoxMind Analytics**: I'm currently working on developing a system to analyze and track boxers' psychological states during fights, combining psychological surveys and physical indicators to assess performance impact.
-- **📸🔍 EduImage Validator**: I'm also developing a system for validating teacher-uploaded images on a teaching platform, ensuring compliance with focus and single-person requirements for secure and accurate registrations.
+- **📸🔍 EduImage Validator**: I'm developing a system for validating teacher-uploaded images on a teaching platform, ensuring compliance with focus and single-person requirements for secure and accurate registrations.
 
 
 

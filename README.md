@@ -25,6 +25,6 @@ I’m passionate about exploring:
 
 ## Contact Me
 - **Email:** [v1sh4lrr@gmail.com](mailto:v1sh4lrr@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vishal-git21)
+- **LinkedIn:** [vishalr-kb21](https://www.linkedin.com/in/vishalr-kb21)
 
 Feel free to check out my work and connect with me!

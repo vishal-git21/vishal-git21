@@ -22,7 +22,21 @@ I’m passionate about exploring:
 - **🥊 BoxMind Analytics**: I'm currently working on developing a system to analyze and track boxers' psychological states during fights, combining psychological surveys and physical indicators to assess performance impact.
 - **📸🔍 EduImage Validator**: I'm developing a system for validating teacher-uploaded images on a teaching platform, ensuring compliance with focus and single-person requirements for secure and accurate registrations.
 
+## Recommended Reads
+Here are some articles I suggest you check out:
 
+- **[Neural Augmented Memory](https://github.com/vishal-git21/LeetRecommendationEngine):** Learn how integrating external memory with neural networks can enhance their learning and performance.
+
+
+## Notable Projects
+Explore these projects that I've been working on:
+
+- **[LeetCode Recommendation System](https://github.com/vishal-git21/LeetRecommendationEngine):** Enhance your problem-solving with personalized recommendations.
+- **[Movie Recommendation System](https://github.com/vishal-git21/MovieRecommendationSystem):** Discover new films with an intelligent recommendation engine.
+- **[Fraud Detection in Financial Transactions](https://github.com/vishal-git21/FraudDetection):** Analyze and detect fraudulent activities in financial data.
+- **[Stock Market Analytics](https://github.com/vishal-git21/StockMarketStategyPrediction):** Gain insights from stock market data and trends.
+- **[AviateOps](https://github.com/vishal-git21/AviateOps):** Explore advanced operations in aviation.
+- **[Keypad LCD Cypher](https://github.com/vishal-git21/KeypadLCDCipher):** Uncover hidden messages with innovative cipher techniques.
 
 ## Contact Me
 - **Email:** [v1sh4lrr@gmail.com](mailto:v1sh4lrr@gmail.com)

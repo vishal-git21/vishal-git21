@@ -13,7 +13,7 @@ I’m passionate about exploring:
 💾 Big Data
 
 
-## Skills & Expertise
+## Skills
 - **Programming Languages:** Python, Java, C/C++, SQL, R
 - **Technologies:** Web Development, Data Science, Machine Learning
 - **Tools:** Git, Docker, Kubernetes

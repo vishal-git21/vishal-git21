@@ -29,7 +29,7 @@ Explore these projects that I've worked on:
 Here are some articles I suggest you check out:
 
 - **[Neural Augmented Memory](https://github.com/vishal-git21/NeuralAugmentedMemoryArticle)**
-- **[Advancing Boxing Analytics Through Psychological State Tracking]()**
+- **[Advancing Boxing Analytics Through Psychological State Tracking](https://github.com/vishal-git21/BoxMindAnalytics)**
 
 # Contact Me
   <a href="https://www.linkedin.com/in/vishalr-kb21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>

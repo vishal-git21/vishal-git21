@@ -9,7 +9,7 @@ I’m passionate about exploring:
 📱 Mobile App Development  
 💾 Big Data
 
-![](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Description of GIF" width="300" />
 
 ## Skills
 - **Programming Languages:** Python, Java, C/C++, SQL, R

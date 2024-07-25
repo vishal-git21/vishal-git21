@@ -3,7 +3,7 @@
 
 With a solid foundation in programming languages and a keen interest in data analytics and AI, I’m excited to explore innovative solutions and contribute to impactful projects.
 
-![image](https://github.com/user-attachments/assets/5fba46ea-5dad-4eb5-b426-49c37802d858)
+![](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 I’m passionate about exploring:
 

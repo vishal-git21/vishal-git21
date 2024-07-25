@@ -36,3 +36,5 @@ Here are some articles I suggest you check out:
   <a href="mailto:v1sh4lrr@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
   
 Feel free to check out my work and connect with me!
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" color="0077B5">

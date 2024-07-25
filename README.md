@@ -21,7 +21,7 @@ Here are some articles I suggest you check out:
 
 
 ## Notable Projects
-Explore these projects that I've been working on:
+Explore these projects that I've worked on:
 
 - **[LeetCode Recommendation System](https://github.com/vishal-git21/LeetRecommendationEngine)**
 - **[Movie Recommendation System](https://github.com/vishal-git21/MovieRecommendationSystem)**

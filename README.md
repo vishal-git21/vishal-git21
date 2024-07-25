@@ -1,11 +1,13 @@
 # 🎮 ⚽ About Me 
 👋 Hey there! I’m Vishal Ravishankar, a dedicated Computer Science undergrad from PES University. I’m deeply passionate about technology and love diving into new challenges! 🚀💡
 
-With a solid foundation in programming languages and a keen interest in data analytics and AI, I’m excited to explore innovative solutions and contribute to impactful projects.
-
 I’m passionate about exploring:
 
-🧠 Artificial Intelligence  📈 Data Science  🌟 Innovative Technologies  📱 Mobile App Development  💾 Big Data
+🧠 Artificial Intelligence  
+📈 Data Science  
+🌟 Innovative Technologies  
+📱 Mobile App Development  
+💾 Big Data
 
 ![](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 

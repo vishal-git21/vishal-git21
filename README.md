@@ -7,11 +7,7 @@ With a solid foundation in programming languages and a keen interest in data ana
 
 I’m passionate about exploring:
 
-🧠 Artificial Intelligence  
-📈 Data Science  
-🌟 Innovative Technologies  
-📱 Mobile App Development  
-💾 Big Data
+🧠 Artificial Intelligence  📈 Data Science  🌟 Innovative Technologies  📱 Mobile App Development  💾 Big Data
 
 
 ## Skills

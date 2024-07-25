@@ -3,7 +3,7 @@
 
 Currently: Diving deeper into machine learning frameworks and starting to explore Scala for big data processing 🔄.
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Description of GIF" height = "500" width="500" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Description of GIF" height = "500" />
 
 ## Skills
 - **Programming Languages:** Python, Java, C/C++, SQL, R

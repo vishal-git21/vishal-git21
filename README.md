@@ -30,13 +30,5 @@ Explore these projects that I've worked on:
 - **[AviateOps](https://github.com/vishal-git21/AviateOps)**
 - **[Keypad LCD Cypher](https://github.com/vishal-git21/KeypadLCDCipher)**
 
-## Contact Me
-
-<a href="mailto:v1sh4lrr@gmail.com">
-  <img src="![image](https://github.com/user-attachments/assets/6e7ddd86-99a1-4435-9d85-5aabb0cc95c4)" alt="Email Me" style="width: 50px; height: auto;">
-</a>
-
-- **Email:** [v1sh4lrr@gmail.com](mailto:v1sh4lrr@gmail.com)
-- **LinkedIn:** [vishalr-kb21](https://www.linkedin.com/in/vishalr-kb21)
 
 Feel free to check out my work and connect with me!

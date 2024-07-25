@@ -1,4 +1,4 @@
-# 🎮 ⚽ About Me 
+# 🎮🏀 About Me 
 👋 Hey there! I’m Vishal Ravishankar, a Computer Science undergrad from PES University. I’m passionate about technology and love tackling new challenges! 🚀💡
 
 Currently: Diving deeper into machine learning frameworks and starting to explore Scala for big data processing 🔄.

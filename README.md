@@ -37,4 +37,4 @@ Here are some articles I suggest you check out:
   
 Feel free to check out my work and connect with me!
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" color="0077B5">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">

@@ -17,18 +17,18 @@ Currently: Diving deeper into machine learning frameworks and starting to explor
 ## Recommended Reads
 Here are some articles I suggest you check out:
 
-- **[Neural Augmented Memory](https://github.com/vishal-git21/NeuralAugmentedMemoryArticle):**
+- **[Neural Augmented Memory](https://github.com/vishal-git21/NeuralAugmentedMemoryArticle)**
 
 
 ## Notable Projects
 Explore these projects that I've been working on:
 
-- **[LeetCode Recommendation System](https://github.com/vishal-git21/LeetRecommendationEngine):**
-- **[Movie Recommendation System](https://github.com/vishal-git21/MovieRecommendationSystem):**
-- **[Fraud Detection in Financial Transactions](https://github.com/vishal-git21/FraudDetection):**
-- **[Stock Market Analytics](https://github.com/vishal-git21/StockMarketStategyPrediction):**
-- **[AviateOps](https://github.com/vishal-git21/AviateOps):**
-- **[Keypad LCD Cypher](https://github.com/vishal-git21/KeypadLCDCipher):**
+- **[LeetCode Recommendation System](https://github.com/vishal-git21/LeetRecommendationEngine)**
+- **[Movie Recommendation System](https://github.com/vishal-git21/MovieRecommendationSystem)**
+- **[Fraud Detection in Financial Transactions](https://github.com/vishal-git21/FraudDetection)**
+- **[Stock Market Analytics](https://github.com/vishal-git21/StockMarketStategyPrediction)**
+- **[AviateOps](https://github.com/vishal-git21/AviateOps)**
+- **[Keypad LCD Cypher](https://github.com/vishal-git21/KeypadLCDCipher)**
 
 ## Contact Me
 - **Email:** [v1sh4lrr@gmail.com](mailto:v1sh4lrr@gmail.com)

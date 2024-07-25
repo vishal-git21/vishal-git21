@@ -25,7 +25,6 @@ Explore these projects that I've worked on:
 - **[AviateOps](https://github.com/vishal-git21/AviateOps)**
 - **[Keypad LCD Cypher](https://github.com/vishal-git21/KeypadLCDCipher)**
 
-
 ## Recommended Reads
 Here are some articles I suggest you check out:
 

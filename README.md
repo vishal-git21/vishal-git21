@@ -32,7 +32,7 @@ Here are some articles I suggest you check out:
 - **[Advancing Boxing Analytics Through Psychological State Tracking]()**
 
 # Contact Me
-  <a href="https://www.linkedin.com/in/vishalr-kb21/"><img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
+  <a href="https://www.linkedin.com/in/vishalr-kb21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
   <a href="mailto:v1sh4lrr@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
   
 Feel free to check out my work and connect with me!

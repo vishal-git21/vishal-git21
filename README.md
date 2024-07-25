@@ -9,7 +9,9 @@ I’m passionate about exploring:
 📱 Mobile App Development  
 💾 Big Data
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Description of GIF" width="300" />
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Description of GIF" width="500" />
+</p>
 
 ## Skills
 - **Programming Languages:** Python, Java, C/C++, SQL, R
@@ -23,18 +25,18 @@ I’m passionate about exploring:
 ## Recommended Reads
 Here are some articles I suggest you check out:
 
-- **[Neural Augmented Memory](https://github.com/vishal-git21/LeetRecommendationEngine):** Learn how integrating external memory with neural networks can enhance their learning and performance.
+- **[Neural Augmented Memory](https://github.com/vishal-git21/NeuralAugmentedMemoryArticle):**
 
 
 ## Notable Projects
 Explore these projects that I've been working on:
 
-- **[LeetCode Recommendation System](https://github.com/vishal-git21/LeetRecommendationEngine):** Enhance your problem-solving with personalized recommendations.
-- **[Movie Recommendation System](https://github.com/vishal-git21/MovieRecommendationSystem):** Discover new films with an intelligent recommendation engine.
-- **[Fraud Detection in Financial Transactions](https://github.com/vishal-git21/FraudDetection):** Analyze and detect fraudulent activities in financial data.
-- **[Stock Market Analytics](https://github.com/vishal-git21/StockMarketStategyPrediction):** Gain insights from stock market data and trends.
-- **[AviateOps](https://github.com/vishal-git21/AviateOps):** Explore advanced operations in aviation.
-- **[Keypad LCD Cypher](https://github.com/vishal-git21/KeypadLCDCipher):** Uncover hidden messages with innovative cipher techniques.
+- **[LeetCode Recommendation System](https://github.com/vishal-git21/LeetRecommendationEngine):**
+- **[Movie Recommendation System](https://github.com/vishal-git21/MovieRecommendationSystem):**
+- **[Fraud Detection in Financial Transactions](https://github.com/vishal-git21/FraudDetection):**
+- **[Stock Market Analytics](https://github.com/vishal-git21/StockMarketStategyPrediction):**
+- **[AviateOps](https://github.com/vishal-git21/AviateOps):**
+- **[Keypad LCD Cypher](https://github.com/vishal-git21/KeypadLCDCipher):**
 
 ## Contact Me
 - **Email:** [v1sh4lrr@gmail.com](mailto:v1sh4lrr@gmail.com)

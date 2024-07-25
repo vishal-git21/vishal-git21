@@ -3,7 +3,7 @@
 
 Currently: Diving deeper into machine learning frameworks and starting to explore Scala for big data processing 🔄.
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Description of GIF" width="500" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Description of GIF" width="700" />
 
 ## Skills
 - **Programming Languages:** Python, Java, C/C++, SQL, R
@@ -30,7 +30,7 @@ Explore these projects that I've worked on:
 Here are some articles I suggest you check out:
 
 - **[Neural Augmented Memory](https://github.com/vishal-git21/NeuralAugmentedMemoryArticle)**
-- **[Advancing Boxing Analytics: Integrating Psychological State Tracking and Deep Learning for Enhanced Performance Analysis]()**
+- **[Advancing Boxing Analytics Through Psychological State Tracking and Deep Learning]()**
 
 
 Feel free to check out my work and connect with me!

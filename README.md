@@ -33,6 +33,6 @@ Here are some articles I suggest you check out:
 
 # Contact Me
   <a href="https://www.linkedin.com/in/vishalr-kb21/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-  <a href="mailto:v1sh4lrr@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=FF0000" /></a>
+  <a href="mailto:v1sh4lrr@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
   
 Feel free to check out my work and connect with me!

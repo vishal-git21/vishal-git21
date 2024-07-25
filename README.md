@@ -3,12 +3,11 @@
 
 With a solid foundation in programming languages and a keen interest in data analytics and AI, I’m excited to explore innovative solutions and contribute to impactful projects.
 
-![](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
-
 I’m passionate about exploring:
 
 🧠 Artificial Intelligence  📈 Data Science  🌟 Innovative Technologies  📱 Mobile App Development  💾 Big Data
 
+![](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 ## Skills
 - **Programming Languages:** Python, Java, C/C++, SQL, R

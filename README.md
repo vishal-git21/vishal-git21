@@ -28,8 +28,10 @@ Explore these projects that I've worked on:
 ## Recommended Reads
 Here are some articles I suggest you check out:
 
-- **[Neural Augmented Memory](https://github.com/vishal-git21/NeuralAugmentedMemory)**
-- **[Advancing Boxing Analytics Through Psychological State Tracking](https://github.com/vishal-git21/BoxMindAnalytics)**
+- **[Neural Augmented Memory]()**
+- **[Advancing Boxing Analytics Through Psychological State Tracking]()**
+- **[Neural models for document ranking]()**
+- **[Linked List vs Arrays in C]()**
 
 # Contact Me
   <a href="https://www.linkedin.com/in/vishalr-kb21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>

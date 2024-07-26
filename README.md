@@ -1,7 +1,7 @@
 # 🎮🏀 About Me 
 👋 Hey there! I’m Vishal Ravishankar, a Computer Science undergrad from PES University. I’m passionate about technology and love tackling new challenges! 🚀💡
 
-Currently: Diving deeper into machine learning frameworks and starting to explore Scala for big data processing 🔄.
+Currently: Diving deeper into machine learning frameworks and starting to explore MOJO programming for AI development.
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Description of GIF" height = "500"/>
 

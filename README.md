@@ -28,7 +28,7 @@ Explore these projects that I've worked on:
 ## Recommended Reads
 Here are some articles I suggest you check out:
 
-- **[Neural Augmented Memory](https://github.com/vishal-git21/NeuralAugmentedMemoryArticle)**
+- **[Neural Augmented Memory](https://github.com/vishal-git21/NeuralAugmentedMemory)**
 - **[Advancing Boxing Analytics Through Psychological State Tracking](https://github.com/vishal-git21/BoxMindAnalytics)**
 
 # Contact Me

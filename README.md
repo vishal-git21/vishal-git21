@@ -29,8 +29,8 @@ Explore these projects that I've worked on:
 Here are some articles I suggest you check out:
 
 - **[Neural Augmented Memory](https://v1sh4lrr.wixsite.com/vishal/a1)**
-- **[Advancing Boxing Analytics Through Psychological State Tracking]()**
-- **[Neural models for document ranking]()**
+- **[Advancing Boxing Analytics Through Psychological State Tracking](https://v1sh4lrr.wixsite.com/vishal/a2)**
+- **[Neural models for document ranking](https://v1sh4lrr.wixsite.com/vishal/a3)**
 - **[Linked List vs Arrays in C](https://v1sh4lrr.wixsite.com/vishal/a4)**
 
 # Contact Me

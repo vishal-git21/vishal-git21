@@ -3,7 +3,7 @@
 
 Currently: Diving deeper into machine learning frameworks and starting to explore Ontology and the Semantic web.
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.marketmycompany.co.nz%2F%3Fi%3Dmake-a-pixel-art-animated-gif-for-you-by-ww-AbY1PLf2&psig=AOvVaw02PTtYQJ4zf8sE_M4RuSGZ&ust=1722329189782000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjn4Zvuy4cDFQAAAAAdAAAAABAm" alt="Description of GIF" height = "500"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Description of GIF" height = "500"/>
 
 ## Skills
 - **Programming Languages:** Python, Java, C/C++, SQL, R

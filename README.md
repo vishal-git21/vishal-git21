@@ -51,6 +51,11 @@ Here are some articles I suggest you check out:
 # Contact Me
   <a href="https://www.linkedin.com/in/vishalr-kb21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
   <a href="mailto:v1sh4lrr@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
+
+
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   
 Feel free to check out my work and connect with me!
 

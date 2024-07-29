@@ -24,9 +24,6 @@ Currently: Diving deeper into machine learning frameworks and starting to explor
 
 <br></br>
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1500">
-
 ## Current Projects
 - **🥊 BoxMind Analytics**: I'm currently working on developing a system to analyze and track boxers' psychological states during fights, combining psychological surveys and physical indicators to assess performance impact.
 - **📸🔍 EduImage Validator**: I'm developing a system for validating teacher-uploaded images on a teaching platform, ensuring compliance with focus and single-person requirements for secure and accurate registrations.

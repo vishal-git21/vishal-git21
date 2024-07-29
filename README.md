@@ -20,7 +20,6 @@ Currently: Diving deeper into machine learning frameworks and starting to explor
 | Hosting         | <img src="https://img.shields.io/badge/Vercel-00C7B7?style=for-the-badge&logo=vercel&logoColor=white"/>  |
 | Design Tools    | <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Wix-880000?style=for-the-badge&logo=wix&logoColor=white"/>|
 | Learning | <img src="https://img.shields.io/badge/Coursera-2A73CC?style=for-the-badge&logo=Coursera&logoColor=white" /> <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" />  |
-|
 
 
 <br></br>

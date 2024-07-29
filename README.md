@@ -54,9 +54,10 @@ Here are some articles I suggest you check out:
 
 
 
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
   
 Feel free to check out my work and connect with me!
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 

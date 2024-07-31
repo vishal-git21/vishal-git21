@@ -32,12 +32,13 @@ Currently: Diving deeper into machine learning frameworks and starting to explor
 ## Notable Projects
 Explore these projects that I've worked on:
 
+- **[Breast Cancer Wisconsin (Diagnostic) Dataset Analysis](https://github.com/vishal-git21/Breast-Cancer-Diagnostic-Analysis)**
+- **[Predicting Heart Failure with ML](https://github.com/vishal-git21/HeartFailurePrediction)**
 - **[LeetCode Recommendation System](https://github.com/vishal-git21/LeetRecommendationEngine)**
-- **[Movie Recommendation System](https://github.com/vishal-git21/MovieRecommendationSystem)**
-- **[Fraud Detection in Financial Transactions](https://github.com/vishal-git21/FraudDetection)**
-- **[Stock Market Analytics](https://github.com/vishal-git21/StockMarketStategyPrediction)**
 - **[AviateOps](https://github.com/vishal-git21/AviateOps)**
-- **[Keypad LCD Cypher](https://github.com/vishal-git21/KeypadLCDCipher)**
+- **[Stock Market Analytics](https://github.com/vishal-git21/StockMarketStategyPrediction)**
+- **[Fraud Detection in Financial Transactions](https://github.com/vishal-git21/FraudDetection)**
+
 
 ## Recommended Reads
 Here are some articles I suggest you check out:

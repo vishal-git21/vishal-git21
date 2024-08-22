@@ -48,6 +48,12 @@ Here are some articles I suggest you check out:
 - **[Neural models for document ranking](https://v1sh4lrr.wixsite.com/vishal/a3)**
 - **[Linked List vs Arrays in C](https://v1sh4lrr.wixsite.com/vishal/a4)**
 
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal-git21&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-git21&layout=compact&theme=dark)
+
+
 # Contact Me
   <a href="https://www.linkedin.com/in/vishalr-kb21/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
   <a href="mailto:v1sh4lrr@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>

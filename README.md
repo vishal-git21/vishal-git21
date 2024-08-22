@@ -50,7 +50,11 @@ Here are some articles I suggest you check out:
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishal-git21&show_icons=true&theme=dark)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-git21&layout=compact&theme=dark)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-git21&show_icons=true&theme=dark" alt="GitHub stats" style="width: 45%; max-width: 500px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-git21&layout=compact&theme=dark" alt="Top Languages" style="width: 45%; max-width: 500px;">
+</div>
+
 
 
 # Contact Me
